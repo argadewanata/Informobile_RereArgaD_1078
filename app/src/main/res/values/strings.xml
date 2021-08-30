@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyMovie</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="mymovie">MyMovie</string>
+    <string name="akwoakwoakow">akwoakwoakow</string>
+    <string name="all_movies_available">All Movies Available</string>
+    <string name="test_title">Test Title</string>
 </resources>

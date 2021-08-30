@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Arga/Code/MyMovie/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Arga/Code/MyMovie/app/src/main/res/layout/activity_all_movie.xml" value="0.22" />
         <entry key="..\:/Arga/Code/MyMovie/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Arga/Code/MyMovie/app/src/main/res/layout/activity_movie_list.xml" value="0.14114583333333333" />
+        <entry key="..\:/Arga/Code/MyMovie/app/src/main/res/layout/list_item.xml" value="0.25" />
       </map>
     </option>
   </component>
